@@ -1,0 +1,51 @@
+.row1 {
+  background-image: url("./images/header-banner.jpg");
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.nav-link {
+  color: white !important;
+  text-shadow: 1px 1px white;
+}
+
+#home {
+  color: #ac2121;
+  text-shadow: 1px 1px white;
+}
+
+@media only screen and (min-width: 992px) {
+  #navbarTogglerDemo01 {
+    margin-left: 100px;
+  }
+
+  .navbar {
+    margin-top: 15px;
+  }
+  .navbar ul {
+    margin-left: 100px;
+  }
+  .navbar ul li {
+    margin: 0px 5px 0px 5px;
+  }
+  .navbar ul .btn {
+    border-radius: 20px;
+  }
+}
+.covid {
+  color: white;
+  height: 500px;
+  margin-top: 170px;
+  margin-left: 150px;
+}
+
+.people {
+  height: 514px;
+}
+.people img {
+  width: 100%;
+}
+
+/*# sourceMappingURL=style.css.map */
